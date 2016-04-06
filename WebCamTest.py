@@ -117,6 +117,7 @@ def main(argv):
         #namedWindow("cam-test",WINDOW_AUTOSIZE)
         #imshow("cam-test",imgThresh)
         #imshow("Orig",img)
+        #test change
         imshow("colors",imgLines)
         waitKey(100)
 
